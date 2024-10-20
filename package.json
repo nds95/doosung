@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "dave <nds95@kakao.com>",
+  "license": "ISC",
+  "repository": "git@github.com:nds95/doosung.git"
 }
