@@ -1,22 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import styled from 'styled-components';
+
+const Container = styled.div`
+  height: 50px;
+  padding: 10px 10px;
+  color: blue;
+`
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Container>nav</Container>
+      <div>body</div>
+      <div>bottom</div>
     </div>
   );
 }
