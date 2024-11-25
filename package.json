@@ -8,5 +8,8 @@
   },
   "author": "dave <nds95@kakao.com>",
   "license": "ISC",
-  "repository": "git@github.com:nds95/doosung.git"
+  "repository": "git@github.com:nds95/doosung.git",
+  "dependencies": {
+    "nvm": "^0.0.4"
+  }
 }
